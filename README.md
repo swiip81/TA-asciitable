@@ -1,5 +1,6 @@
 # TA-asciitable
 A beautifultable lib wrapper for splunk
+https://pypi.org/project/beautifultable/
 
 index="*" 
 | head 20 | table _time index host sourcetype
